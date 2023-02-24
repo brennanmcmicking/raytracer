@@ -133,17 +133,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Color.cpp" />
-    <ClCompile Include="Intersection.cpp" />
     <ClCompile Include="invert.cpp" />
-    <ClCompile Include="Light.cpp" />
-    <ClCompile Include="Object.cpp" />
     <ClCompile Include="ppm.cpp" />
     <ClCompile Include="RayTracer.cpp" />
-    <ClCompile Include="RaytraceResult.cpp" />
-    <ClCompile Include="Sphere.cpp" />
-    <ClCompile Include="Vec.cpp" />
-    <ClCompile Include="World.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Color.h" />
